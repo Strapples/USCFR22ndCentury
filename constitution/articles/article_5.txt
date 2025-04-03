@@ -1,0 +1,11 @@
+Article V describes the amendment process...
+
+---
+
+{
+    "section": "article_5",
+    "type": "constitution",
+    "human_readable": true,
+    "machine_readable": true,
+    "content": "Article V describes the amendment process..."
+}

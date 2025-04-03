@@ -1,0 +1,11 @@
+Article III outlines the powers and structure of the Judicial Branch...
+
+---
+
+{
+    "section": "article_3",
+    "type": "constitution",
+    "human_readable": true,
+    "machine_readable": true,
+    "content": "Article III outlines the powers and structure of the Judicial Branch..."
+}

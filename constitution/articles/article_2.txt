@@ -1,0 +1,11 @@
+Article II outlines the powers and structure of the Executive Branch...
+
+---
+
+{
+    "section": "article_2",
+    "type": "constitution",
+    "human_readable": true,
+    "machine_readable": true,
+    "content": "Article II outlines the powers and structure of the Executive Branch..."
+}

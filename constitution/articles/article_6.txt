@@ -1,0 +1,11 @@
+Article VI discusses federal powers and supremacy...
+
+---
+
+{
+    "section": "article_6",
+    "type": "constitution",
+    "human_readable": true,
+    "machine_readable": true,
+    "content": "Article VI discusses federal powers and supremacy..."
+}

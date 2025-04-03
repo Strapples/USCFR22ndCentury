@@ -1,0 +1,11 @@
+Article IV discusses states' powers and limits...
+
+---
+
+{
+    "section": "article_4",
+    "type": "constitution",
+    "human_readable": true,
+    "machine_readable": true,
+    "content": "Article IV discusses states' powers and limits..."
+}

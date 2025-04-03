@@ -1,0 +1,11 @@
+Article I outlines the powers and structure of the Legislative Branch...
+
+---
+
+{
+    "section": "article_1",
+    "type": "constitution",
+    "human_readable": true,
+    "machine_readable": true,
+    "content": "Article I outlines the powers and structure of the Legislative Branch..."
+}

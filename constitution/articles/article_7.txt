@@ -1,0 +1,11 @@
+Article VII explains the ratification process of the Constitution...
+
+---
+
+{
+    "section": "article_7",
+    "type": "constitution",
+    "human_readable": true,
+    "machine_readable": true,
+    "content": "Article VII explains the ratification process of the Constitution..."
+}
